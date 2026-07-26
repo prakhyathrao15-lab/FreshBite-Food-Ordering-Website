@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="FreshBite food placeholder">
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff1e7"/><stop offset="1" stop-color="#ffd7bd"/></linearGradient></defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <circle cx="400" cy="250" r="145" fill="#fff" stroke="#f59e0b" stroke-width="18"/>
+  <circle cx="340" cy="220" r="42" fill="#e85d04"/><circle cx="452" cy="275" r="50" fill="#f59e0b"/><circle cx="415" cy="172" r="30" fill="#84cc16"/>
+  <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#9a3412">FreshBite</text>
+</svg>

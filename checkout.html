@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout | FreshBite</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<div id="toast" class="toast">
+    ✅ Item added to cart!
+</div>
+
+<body>
+
+<header>
+
+    <nav>
+
+        <h2>FreshBite</h2>
+
+        <ul>
+
+            <li><a href="index.html">Home</a></li>
+            <li><a href="restaurants.html">Restaurants</a></li>
+            <li><a href="menu.html">Menu</a></li>
+            <li><a href="cart.html">Cart</a></li>
+            <li><a href="about us.html">About Us</a></li>
+            <li><a href="contact.html">Contact</a></li>
+            <li><a href="login.html">Login</a></li>
+
+        </ul>
+
+    </nav>
+
+</header>
+
+<section class="checkout">
+
+    <h1>Checkout</h1>
+
+    <form>
+
+        <h2>Delivery Details</h2>
+
+        <label>Full Name</label>
+        <input type="text" placeholder="Enter your full name">
+
+        <label>Phone Number</label>
+        <input type="tel" placeholder="Enter your phone number">
+
+        <label>Delivery Address</label>
+        <textarea rows="4" placeholder="Enter your address"></textarea>
+
+        <label>City</label>
+        <input type="text" placeholder="Enter your city">
+
+        <label>Pincode</label>
+        <input type="text" placeholder="Enter your pincode">
+
+        <h2>Payment Method</h2>
+
+        <label>
+            <input type="radio" name="payment" checked>
+            Cash on Delivery
+        </label>
+
+        <label>
+            <input type="radio" name="payment">
+            UPI
+        </label>
+
+        <label>
+            <input type="radio" name="payment">
+            Credit / Debit Card
+        </label>
+
+        <h2>Order Summary</h2>
+
+        <p>Margherita Pizza × 1 - ₹299</p>
+        <p>Cheese Burger × 2 - ₹498</p>
+
+        <hr>
+
+        <p>Subtotal : ₹797</p>
+        <p>Delivery Charge : ₹50</p>
+        <p>GST : ₹40</p>
+
+        <h3>Total : ₹887</h3>
+
+        <button type="submit">Place Order</button>
+
+    </form>
+
+</section>
+
+<footer>
+
+    <p>© 2026 FreshBite. All Rights Reserved.</p>
+
+</footer>
+
+<script src="script.js" defer></script>
+</body>
+
+</html>
