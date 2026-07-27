@@ -44,3 +44,35 @@ FreshBite/
 │   └── ...
 │
 └── README.md               # Project documentation
+## Screenshots
+### Home Page
+![Home](Screenshots/Home.png)
+---
+### Resturaunts Page
+![Resturaunts](Screenshots/Resturaunts.png)
+![Resturaunts](Screenshots/resturaunts%20(2).png)
+### Menu Page
+![Menu](Screenshots/Menu.png)
+![Menu](Screenshots/Menu%20(2).png)
+### Cart Page
+![Cart](Screenshots/Cart.png)
+### Contact Page
+![Contact](Screenshots/Contact%20Us.png)
+### Login Page
+![Login](Screenshots/Login.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🌐 Live Demo
+
+https://prakhyathrao15-lab.github.io/FreshBite-Food-Ordering-Website/
